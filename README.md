@@ -6,7 +6,7 @@ You'll have to install the following:
 
 * [Python](https://www.python.org/downloads/) (make sure to add this to PATH)
 * [Node JS](https://nodejs.org/en/download/current/) (make sure to add this to PATH)
-* [VTuber Studio](https://store.steampowered.com/app/1325860/VTube_Studio/)
+* [VTube Studio](https://store.steampowered.com/app/1325860/VTube_Studio/)
 * [VOICEVOX](https://voicevox.hiroshiba.jp/)
 * [VB-CABLE](https://vb-audio.com/Cable/)
 * [OBS studio](https://obsproject.com/)
