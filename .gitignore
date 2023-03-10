@@ -1,3 +1,7 @@
+__pycache__/
+sp.wav
+package-lock.json
+
 # Logs
 logs
 *.log
